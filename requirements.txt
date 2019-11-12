@@ -1,0 +1,9 @@
+pandas==0.25.*
+geopandas==0.6.*
+osmnx==0.10
+networkx==2.4
+requests==2.22.*
+numpy==1.17.*
+shapely==1.6.*
+pyproj==2.4.*
+matplotlib==3.*
