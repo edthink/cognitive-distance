@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2019-11-27 09:41:05,307 INFO osmnx Configured osmnx
 2019-11-27 09:41:57,183 INFO osmnx Projected the GeoDataFrame "geometry to project" to UTM-18 in 0.02 seconds
 2019-11-27 09:41:57,197 INFO osmnx Projected the GeoDataFrame "geometry to project" to default_crs in 0.01 seconds
@@ -10747,3 +10748,7 @@
 2019-11-29 11:40:05,041 INFO osmnx Found nearest node (5429030150) to point [37.78126105263862, -122.42233555888194] in 0.01 seconds
 2019-11-29 11:40:06,041 INFO osmnx Found nearest node (65374496) to point [37.7815650381556, -122.420900274126] in 0.01 seconds
 2019-11-29 11:40:06,992 INFO osmnx Found nearest node (65327147) to point [37.78166740371503, -122.41942000000002] in 0.01 seconds
+=======
+2019-11-27 12:06:10,963 INFO osmnx Configured osmnx
+2019-11-27 15:00:15,175 INFO osmnx Configured osmnx
+>>>>>>> 1804f0abab3b12250429e32402b98eb01807b808
